@@ -33,7 +33,7 @@ If you are interested in discussing with me, feel free to drop me an email (xli6
 
 # 🏅 Honors and Awards
 
-# 👨‍🎓Educations
+# 👨‍🎓 Educations
 
 - *2021.09 - 2024.06*, Master, Southeast University, Nanjing. 
 - *2017.09 - 2021.06*, Undergraduate, Nanjing University of Information Science & Technology, Nanjing.
