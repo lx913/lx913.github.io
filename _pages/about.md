@@ -17,79 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dong-Dong Wu (吴东冬) is currently a third-year master student in [School of computer science and engineering at Southeast University](https://cse.seu.edu.cn/). He is a member of [Pattern Learning and Mining Lab (PALM)](http://palm.seu.edu.cn/) supervised by [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/). Dong-Dong Wu received his B.Eng. degree in [School of Big Data & Software Engineering at Chongqing University](http://www.cse.cqu.edu.cn/) in Jun 2021. In the same year, he was admitted to study for an M.Eng. degree in Southeast University without entrance examination.
+Xiang Li (李想) is currently a Ph.D. student in [Department of Computer Science at George Mason University](https://cs.gmu.edu/)  supervised by [Prof. Qiang Zeng](https://cs.gmu.edu/~zeng/index.html). He received his M.E. degree in [School of Computer Science and Engineering at Southeast University](https://cse.seu.edu.cn/) under the supervision of [Prof. Kai Dong](https://cse.seu.edu.cn/2023/1024/c23024a469533/page.htm) ,and received his B.E. degree in [School of Computer Science at Nanjing University of Information Science & Technology](https://scs.nuist.edu.cn/main.htm).
 
-My primary research interest lies in the field of **trustworthy weakly supervised learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Specially now I am focusing on partial label learning, dataset condensation, long-tailed learning, knowledge distillation, and uncertainty calibration, model defense. Here is my  <a href ="../certificates/CV.pdf">CV</a>.
+My primary research interest lies in the field of **trustworthy artificial intelligence**.
 
-If you are interested in discussing with me, feel free to drop me an email (dongdongwu@seu.edu.cn, dongdongwu1230@gmail.com) or add my wechat (kaefer1999).
-
-~~**Note: I am seeking a research assistant (RA) position opportunities** from June 2023 through March 2024. Please feel free to contact me if you have any potential openings.~~
+If you are interested in discussing with me, feel free to drop me an email (xli62@gmu.edu) or add my wechat (cris7ka8).
 
 # 🎈 Github
 
-- [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
-  - A curated list of most recent papers & codes in Learning with Partial/Complementary Labels.
-
-
 # 📝 Publications
-
-- [Efficient Model Stealing Defense with Noise Transition Matrix](https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf) [[Code]](https://palm.seu.edu.cn/zhangml/files/EMMA.zip)
-  - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang*.
-  - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
-- [Robust Representation Learning for Unreliable Partial Label Learning.](https://arxiv.org/pdf/2308.16718.pdf)
-  - Yu Shi$\dagger$, **Dong-Dong Wu**$\dagger$, Xin Geng\*, Min-Ling Zhang\*
-- [Distilling Reliable Knowledge for Instance-dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf) [[Code]](https://github.com/wu-dd/DIRK)
-  - **Dong-Dong Wu**, Deng-Bao Wang, Min-Ling Zhang\*.
-  - *Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI'24**)*, accepted, 2023.
-- [Revisiting consistency regularization for deep partial label learning](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf). [[Code]](https://github.com/wu-dd/PLCR)
-  - **Dong-Dong Wu**$\dagger$, Deng-Bao Wang$\dagger$, Min-Ling Zhang\*.
-  - *Proceedings of the 39th International Conference on Machine Learning (**ICML'22**)*, accepted, 2022.
-- [A new classification method based on the negation of a basic probability assignment in the evidence theory](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864) 
-  - **Dongdong Wu**, Zijing Liu, Yongchuan Tang\*.
-  - *Engineering Applications of Artificial Intelligence (EAAI)*. 2020, 96: 103985. https://doi.org/10.1016/j.engappai.2020.103985.
-- [A new approach for generation of generalized basic probability  assignment in the evidence theory](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf).
-  - Yongchuan Tang\*, **Dongdong Wu**, Zijing Liu.
-  - *Pattern Analysis and Applications (PAA)*.  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0.
-  - **ESI Highly Cited Paper, top1%**.
-- [An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660)
-  - **Dongdong Wu**, Yongchuan Tang*.
-  - *Quality and Reliability Engineering International (QRE)*. 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660.
-  - **ESI Highly Cited Paper [<a href ="../certificates/Top Cited Article 2020-2021.pdf">Certificate</a>], top1%.**
-
-# 👨‍💻 Internships
-
-- *2023.06 - 2023.10*, Machine Intelligence Department, [Ant Group](https://www.antgroup.com/), China.
-- *2020.06 - 2021.09*, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China, [<a href ="../certificates/Institute of Automation-Admission.pdf">Admission</a>] [<a href ="../certificates/Institute of Automation-Proof.pdf">Certificate</a>].	
 
 # 🌞 Professional Services
 
-- Reviewer / PC Member: ICML (2022), ECML-PKDD (2023), CVPR (2024), IJCAI (2024), KDD (2024).
-- Teaching Assistant: Machine Learning at Southeast University, spring 2022.
-
 # 👻 Invited Talk
-
-- "ATEC2023 Competition Review and Sharing", Meituan, 2024
 
 # 🏅 Honors and Awards
 
--  Outstanding Graduate in Southeast University, 2024.
--  1st place team (Top 1/1901) in the **ATEC2023 - LLM application and security** [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml), 2024. (Thanks for my team mates!)
--  Huawei Scholarship, 2024.
--  Excellent Master Student Model in Southeast University, 2023.
--  Lenovo Research Institute Scholarship, 2023.
--  Excellent Master Student in Southeast University, 2022.
--  7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL), 2022.
--  Graduate Academic Scholarship of Southeast University (3-time), 2021-2022.
--  Advanced Individual in Chongqing city, 2021.
--  Outstanding Graduate in Chongqing University, 2021.
--  First Prize (top 3%), National CCF Green Computing Contest, 2021.
--  Third Prize  (top 5%), National WeChat Mini Program Development Contest, 2020.
--  Outstanding Winner (top 0.1%), International Interdisciplinary Contest in Modeling (ICM), 2019.
--  Individual Scholarship (4-time), including Huawei Scholarship, Seasky Land Scholarship, Texcel Scholarship, Qianrong Wang Scholarship).
--  National Inspirational Scholarship of Chongqing University (3-time).
--  Comprehensive Scholarship of Chongqing University (6-time).
-
 # 👨‍🎓Educations
 
-- *2021.09 - 2024.06 (now)*, Master, Southeast University (87.93/100), Nanjing. 
-- *2017.09 - 2021.06*, Undergraduate, Chongqing University (86.88/100), Chongqing.
+- *2021.09 - 2024.06*, Master, Southeast University, Nanjing. 
+- *2017.09 - 2021.06*, Undergraduate, Nanjing University of Information Science & Technology, Nanjing.
