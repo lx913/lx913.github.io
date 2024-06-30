@@ -4,8 +4,8 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /education
-  - /education.html
+  - /educations
+  - /educations.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -22,4 +22,4 @@ redirect_from:
 # Educations
 
 - *2021.09 - 2024.06*, Master, Southeast University, Nanjing. 
-- *2017.09 - 2021.06*, Undergraduate, Nanjing University of Information Science & Technology, Nanjing.
+- *2017.09 - 2021.06*, Undergraduate, Nanjing University of Information Science and Technology, Nanjing.
