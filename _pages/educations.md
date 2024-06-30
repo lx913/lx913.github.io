@@ -1,11 +1,10 @@
 ---
 permalink: /educations/
-title: ""
-excerpt: ""
+title: "Educations"
+excerpt: "Description of educations"
 author_profile: True
 redirect_from: 
   - /educations.html/
-layout: default
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
