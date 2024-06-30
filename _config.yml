@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wu-dd (吴东冬)"
-description              : "Master student at PALM lab. Focusing on trustworthy weakly supervised learning."
-repository               : "wu-dd/wu-dd.github.io"
+title                    : "Xiang Li (李想)"
+description              : "Ph.D. student at George Mason University. Focusing on trustworthy artificial intelligence."
+repository               : "https://github.com/lx913/lx913.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wu Dong-Dong"
-  avatar           : "images/wdd-512x512.png"
-  bio              : "Southeast University"
-  location         : "Jiangsu, China"
+  name             : "Xiang Li"
+  # avatar           : "images/wdd-512x512.png"
+  bio              : "George Mason University"
+  location         : "Fairfax, VA, America"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=_Vx3dZgAAAAJ&hl=zh-CN"
-  email            : "220212071@seu.edu.cn"
+  # googlescholar    : "https://scholar.google.com/citations?user=_Vx3dZgAAAAJ&hl=zh-CN"
+  email            : "xli62@gmu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wu-dd" # e.g., "github username"
+  github           : "lx913" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
