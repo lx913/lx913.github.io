@@ -2,9 +2,10 @@
 permalink: /educations/
 title: ""
 excerpt: ""
-author_profile: false
+author_profile: True
 redirect_from: 
   - /educations.html/
+layout: default
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
