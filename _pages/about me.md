@@ -35,6 +35,17 @@ If you are interested in discussing with me, feel free to drop me an email (xli6
 
 - <span class='paper-badge'>Security 2025</span> **Rowhammer-Based Trojan Injection: One Bit Flip Is Sufficient for Backdooring DNNs**<br>*<u>Xiang Li</u>, Ying Meng, Junming Chen, Lannan Luo, Qiang Zeng*<br>*USENIX Security Symposium, 2025*<br><span class='paper-asset'><a href="https://cs.gmu.edu/~zeng/papers/2025-Security-OneFlip.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/OneFlipBackdoor/OneFlip">Code</a></span> <span class='paper-asset'><a href="https://oneflipbackdoor.github.io/">Website</a></span>
 
+# Services
+**Program & Evaluation Committee**
+- [Security'26 AE] Artifact Evaluation Committee, Usenix Security Symposium, 2026.
+
+**Conference Reviewer**
+- [NeurIPS'26] Annual Conference on Neural Information Processing Systems, 2026.
+
+**Journal Reviewer**
+- [TDSC] IEEE Transactions on Dependable and Secure Computing.
+- [JSC] Journal of Computer Security.
+
 # Work Experience
 - *2025.01 - Present*, Graduate Research Assistant.
 - *2024.08 - 2024.12*, CS471, Operating Systems, Graduate Teaching Assistant.
