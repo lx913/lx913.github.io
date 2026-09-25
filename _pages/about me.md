@@ -37,7 +37,7 @@ If you are interested in discussing with me, feel free to drop me an email (xli6
 
 # Services
 **Program & Evaluation Committee**
-- [Security'26 AE] Artifact Evaluation Committee, Usenix Security Symposium, 2026.
+- [Security'26] Artifact Evaluation Committee, Usenix Security Symposium, 2026.
 
 **Conference Reviewer**
 - [NeurIPS'26] Annual Conference on Neural Information Processing Systems, 2026.
