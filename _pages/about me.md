@@ -46,14 +46,17 @@ If you are interested in discussing with me, feel free to drop me an email (xli6
 - [TDSC] IEEE Transactions on Dependable and Secure Computing.
 - [JSC] Journal of Computer Security.
 
+# Honors and Awards
+- Student Travel Grant, USENIX Security'25.
+- Broadening Participation Award, ICCV'25.
+- Graduate Student Travel Fund, George Mason University.
+
 # Work Experience
 - *2025.01 - Present*, Graduate Research Assistant.
 - *2024.08 - 2024.12*, CS471, Operating Systems, Graduate Teaching Assistant.
 
 # Talks
 - Rowhammer-Based Trojan Injection: One Bit Flip Is Sufficient for Backdooring DNNs. USENIX Security Symposium, Seattle, WA, USA.
-
-# Honors and Awards
 
 # Educations
 
