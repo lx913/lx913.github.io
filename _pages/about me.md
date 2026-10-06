@@ -33,7 +33,7 @@ If you are interested in discussing with me, feel free to drop me an email (xli6
 
 - <span class='paper-badge'>ICCV'25</span> **Backdoor Attacks on Neural Networks via One-Bit Flip**<br>*<u>Xiang Li</u>, Lannan Luo, Qiang Zeng*<br>*International Conference on Computer Vision, 2025*<br><span class='paper-asset'><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Li_Backdoor_Attacks_on_Neural_Networks_via_One-Bit_Flip_ICCV_2025_paper.html">PDF</a></span> <span class='paper-asset'><a href="https://github.com/lx913/SoleFlip">Code</a></span>
 
-- <span class='paper-badge'>Security'25</span> **Rowhammer-Based Trojan Injection: One Bit Flip Is Sufficient for Backdooring DNNs**<br>*<u>Xiang Li</u>, Ying Meng, Junming Chen, Lannan Luo, Qiang Zeng*<br>*USENIX Security Symposium, 2025*<br><span class='paper-asset'><a href="https://cs.gmu.edu/~zeng/papers/2025-Security-OneFlip.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/OneFlipBackdoor/OneFlip">Code</a></span> <span class='paper-asset'><a href="https://oneflipbackdoor.github.io/">Website</a></span>
+- <span class='paper-badge'>Security'25</span> **Rowhammer-Based Trojan Injection: One Bit Flip Is Sufficient for Backdooring DNNs**<br>*<u>Xiang Li</u>, Ying Meng, Junming Chen, Lannan Luo, Qiang Zeng*<br>*USENIX Security Symposium, 2025*<br><span class='paper-asset'><a href="https://www.usenix.org/conference/usenixsecurity25/presentation/li-xiang">PDF</a></span> <span class='paper-asset'><a href="https://github.com/OneFlipBackdoor/OneFlip">Code</a></span> <span class='paper-asset'><a href="https://oneflipbackdoor.github.io/">Website</a></span>
 
 # Services
 **Program & Evaluation Committee**
