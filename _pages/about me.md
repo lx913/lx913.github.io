@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<span style="color: #C0392B; font-weight: bold;">I am actively seeking research internship opportunities for Summer 2027, particularly in AI security and safety, trustworthy AI, and generative models.</span> Please feel free to reach out if my research aligns with your team's interests!
+
 # About Me
 
 Xiang Li (李想) is currently a third-year Ph.D. student at George Mason University, supervised by [Prof. Qiang Zeng](https://cs.gmu.edu/~zeng/index.html). He received his M.E. degree from Southeast University under the supervision of [Prof. Kai Dong](https://cs.seu.edu.cn/dk/main.htm), and received his B.E. degree from Nanjing University of Information Science and Technology.
