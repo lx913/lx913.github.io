@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="color: #C0392B; font-weight: bold;">I am actively seeking research internship opportunities for Summer 2027, particularly in AI security and safety, trustworthy AI, and generative models.</span> Please feel free to reach out if my research aligns with your team's interests!
+<span style="color: #C0392B; font-weight: bold;">I am actively seeking research internship opportunities for Summer 2027, particularly in AI security and safety, and generative AI security.</span> Please feel free to reach out if my research aligns with your team's interests!
 
 # About Me
 
