@@ -49,6 +49,7 @@ If you are interested in discussing with me, feel free to drop me an email (xli6
 - [JSC] Journal of Computer Security.
 
 # Honors and Awards
+- Financial Assistance Award, NeurIPS'26.
 - Student Travel Grant, USENIX Security'25.
 - Broadening Participation Award, ICCV'25.
 - Graduate Student Travel Fund, George Mason University.
